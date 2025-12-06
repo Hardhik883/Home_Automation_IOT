@@ -20,9 +20,9 @@ A Python script publishes temperature, humidity, and PIR sensor values to an MQT
 ##  Tools & Technologies Used
 
  Component ---------------> Type 
- Home Assistant ----------> Docker Desktop 
- Mosquitto MQTT Broker ---> Docker Desktop 
- MQTT Explorer -----------> Desktop Application 
- Python ------------------> paho-mqtt library 
+// Home Assistant ----------> Docker Desktop 
+//Mosquitto MQTT Broker ---> Docker Desktop 
+//MQTT Explorer -----------> Desktop Application 
+//Python ------------------> paho-mqtt library 
 
 
