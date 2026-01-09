@@ -1,4 +1,4 @@
-# Assignment_Nakshatra_automation
+#Automation
 MQTT based home automation
 This project demonstrates integration between Python, MQTT Broker, and Home Assistant to send real-time sensor data (temperature, humidity, and PIR motion detection) and visualize it in a dashboard.
 #  Home Assistant + MQTT + Python Sensor Integration
